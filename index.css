@@ -8,16 +8,20 @@
 body {
   font-size: 13px;
   font-weight: 500;
-}
-
-@font-face {
   font-family: 'Manrope', Arial, Helvetica, sans-serif;
-  src: url('https://fonts.google.com/specimen/Manrope');
 }
 
 img {
   width: 100%;
   height: auto;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 
 .container {
